@@ -1,4 +1,3 @@
-[![Youtube][youtube-shield]][youtube-url]
 [![Facebook][facebook-shield]][facebook-url]
 [![Instagram][instagram-shield]][instagram-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -6,15 +5,16 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center"><a href="https://github.com/learnwithsumit/uptime-monitoring-api-raw-node">Raw Node.js Project - Uptime Monitoring API</a></h3>
+  <h3 align="center"><a href="https://github.com/codewithsaidul/uptime-monitoring-api-raw-node">Raw Node.js Project - Uptime Monitoring API</a></h3>
 
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [How to run](#how-to-run)
-  - [New Users](#new-users-who-never-cloned-this-repository-before)
-  - [Old Users](#old-users-who-previously-cloned-the-repository)
+  - [New Users who never cloned this repository before](#new-users-who-never-cloned-this-repository-before)
+  - [Old users who previously cloned the repository](#old-users-who-previously-cloned-the-repository)
 - [Contact](#contact)
 
 <!-- HOW TO RUN -->
@@ -27,7 +27,7 @@ Please follow the below instructions to run this project in your machine:
 
 1. Clone this repository
    ```sh
-   git clone https://github.com/learnwithsumit/uptime-monitoring-api-raw-node.git
+   git clone https://github.com/codewithsaidul/uptime-monitoring-api-raw-node.git
    ```
 2. Go into cloned directory
    ```sh
@@ -59,19 +59,15 @@ git pull
 
 ## Contact
 
-Sumit Saha - [sumit@learnwithsumit.com](mailto:sumit@learnwithsumit.com)
+Saidul Islam Rana - [codewithsaidul@gmail.com](mailto:codewithsaidul@gmail.com)
 
-Project Link: [https://github.com/learnwithsumit/nodejs-basic-bangla](https://github.com/learnwithsumit/nodejs-basic-bangla)
+Project Link: [https://github.com/codewithsaidul/uptime-monitoring-api-raw-node](https://github.com/codewithsaidul/uptime-monitoring-api-raw-node)
 
-Youtube Channel: [https://youtube.com/LearnwithSumit](https://youtube.com/LearnwithSumit)
 
 <!-- MARKDOWN LINKS & IMAGES -->
-
-[youtube-shield]: https://img.shields.io/badge/-Youtube-black.svg?style=flat-square&logo=youtube&color=555&logoColor=white
-[youtube-url]: https://youtube.com/LearnwithSumit
 [facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
-[facebook-url]: https://facebook.com/letslearnwithsumit
+[facebook-url]: https://facebook.com/codewithsaidul
 [instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
-[instagram-url]: https://instagram.com/learnwithsumit
+[instagram-url]: https://instagram.com/codewithsaidul
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/company/learnwithsumit
+[linkedin-url]: https://linkedin.com/in/codewithsaidul
